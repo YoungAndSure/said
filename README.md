@@ -1,2 +1,1 @@
-# said
-yang chao mai said
+# record yang chao mai's words
